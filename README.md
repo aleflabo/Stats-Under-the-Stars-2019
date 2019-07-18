@@ -13,6 +13,6 @@ This file contains the pipeline used to solve the problem. It presents the prepr
 2.  __`sus5.R`__: 
 This R file was useful to fill the missing data of our dataset. We filled them with the knn method. 
 
-3.  __`train.csv'__ and __'test.csv`__: 
+3.  __`train.csv`__ and __`test.csv`__: 
 These are the datasets for the test and validation part
 
