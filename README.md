@@ -3,4 +3,14 @@ Partecipation at SUS2019 Hackathon in Milan at the Bocconi University. Awarded a
 
 ![](sus5.jpg)
 
-It was asking to solve a regression ML problem about car accident insurance. 
+It was asking to solve a regression ML problem on some real data about car accident insurance. 
+
+During the Hackathon we have used some different Machine Learning methods that can be seen in the following files:
+
+1.  __`sus5.ipynb`__: 
+This file contains the pipeline used to solve the problem. It presents the preprocessing (except for the None filling) and the model selection phase.
+
+1.  __`sus5.R`__: 
+This R file was useful to fill the missing data of our dataset. We filled them with the knn method. 
+
+
